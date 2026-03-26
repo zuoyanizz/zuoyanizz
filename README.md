@@ -173,4 +173,3 @@
 <p align="center">
   © 2026 左娅妮 Yani Zuo &nbsp;·&nbsp; 中国计量科学研究院 &nbsp;·&nbsp; Last updated: March 2026
 </p>
-<img width="740" height="5224" alt="image" src="https://github.com/user-attachments/assets/a6c8d9b4-c9a7-48f4-8529-67ddebb6de60" />
