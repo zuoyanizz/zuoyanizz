@@ -1,4 +1,4 @@
-<img width="175" height="28" alt="image" src="https://github.com/user-attachments/assets/39b28b3c-c8e5-4a7d-8d46-855377bec260" /><h1 align="center">左娅妮 &nbsp;·&nbsp; Yani Zuo</h1>
+<h1 align="center">左娅妮 &nbsp;·&nbsp; Yani Zuo</h1>
 
 <p align="center">
   <b>副研究员 · Associate Researcher</b><br>
