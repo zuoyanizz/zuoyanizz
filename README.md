@@ -4,7 +4,7 @@
   <b>副研究员 · Associate Researcher</b><br>
   中国计量科学研究院 时间频率计量科学研究所（国家时间频率计量中心）<br>
   National Institute of Metrology, China · Time & Frequency Division<br><br>
-  📧 zuoyani@nim.ac.cn &nbsp;|&nbsp; zuoyanizz@163.com
+  📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d4aea1bbadb5babd94babdb9fab5b7fab7ba">[email&#160;protected]</a> &nbsp;|&nbsp; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="38424d5741595651424278090e0b165b5755">[email&#160;protected]</a>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 
 左娅妮，女，1993年，博士，中国计量科学研究院时间频率计量科学研究所（国家时间频率计量中心）副研究员。2020年博士毕业于清华大学物理系（师从王力军教授与张建伟副教授），从事基于协同冷却镉离子微波钟的研究。2020年至2023年在中国计量科学研究院时频所从事博士后研究（合作导师为李天初院士与房芳研究员），出站后留院任副研究员，目前所在团队为计量院基础创新团队——喷泉、离子光钟团队（团队负责人：房芳 副院长）。
 
-团队科研经费充足，承担多项国家级重大/重点项目。本人主持国家自然科学基金青年项目1项、国家市场监督管理总局科技计划项目1项及院基本科研业务费项目2项，作为负责人联合承研XXX专项超过500万元，作为骨干参与合肥国家实验室科技创新2030重大项目、科技部NQI国家重点研发计划等重要课题。主要科研贡献包括镱离子光钟关键技术攻关、镉离子微波钟核心技术突破以及集成化超稳微波激光系统研制，部分成果已实现转化应用。
+团队科研经费充足，承担多项国家级重大/重点项目。本人主持国家自然科学基金青年项目1项、国家市场监督管理总局科技计划项目1项及院基本科研业务费项目2项，联合承研XXX专项超过500W，作为骨干参与合肥国家实验室科技创新2030重大项目、科技部NQI国家重点研发计划等重要课题。主要科研贡献包括镱离子光钟关键技术攻关、镉离子微波钟核心技术突破以及集成化超稳微波激光系统研制，部分成果已实现转化应用。
 
 在 *Nature Communications*、*Optics Letters*、*Applied Physics Letters*、*物理学报*、*计量学报* 等期刊发表SCI/EI论文多篇，申请多项发明专利。曾获中国计量测试学会科学技术进步奖（2025，排名3/10）、IEEE国际频率控制大会最佳学生论文竞赛组冠军奖（2018，大陆科研单位首次获奖）等荣誉。
 
@@ -55,24 +55,24 @@
 | 2 | F. Wu, H. Shi, X. Qi, **Y. Zuo\***, "High-precision calculation of dynamic electric dipole polarizability of 11Be²⁺ ion" | *物理学报 (ACTA PHYSICA SINICA)* 74(21) | 2025 | — | `共同通讯` |
 | 3 | B. He, J. Yang, F. Meng, ..., **Y. Zuo**, et al., "Highly coherent two-color laser and its application for low-noise microwave generation" | *Nature Communications* 16, 4034 | 2025 | 13 | 合作 |
 | 4 | 张亚南, **左娅妮\***, 戴少阳, 曹士英, et al., "用于光钟的室温超稳激光系统研究进展" | *计量学报* 46(6): 899–909 | 2025 | — | `共同通讯` |
-| 5 | H. Shi, **Y. Zuo**, F. Wu, et al., "Dispersion-induced pulse broadening and compression method in underwater wireless optical communication" | *Journal of Optics* 27(6): 065608 | 2025 | — | 合作 |
-| 6 | H. Shi, **Y. Zuo**, F. Wu, et al., "Theoretical investigation of underwater zero-order Bessel beam generation and propagation characteristics" | *Physica Scripta* 100(6): 065113 | 2025 | — | 合作 |
-| 7 | H. Shi, **Y. Zuo**, F. Wu, et al., "Theoretical investigation and numerical simulation of gas-filled multi-pass cell" | *Opto-Electronics Review* 33 | 2025 | 1 | 合作 |
-| 8 | H. Shi, X. Wang, **Y. Zuo**, et al., "Underwater Laguerre-Gaussian beam propagation and phase compensation method" | *Opto-Electronics Review* 33 | 2025 | 1 | 合作 |
-| 9 | S. Dai, C. Wang, S. Cao, **Y. Zuo**, et al., "The research of 369.5 nm laser stabilizing method and its influence on ytterbium ion optical clock" | *AIP Advances* 15(7) | 2025 | — | 合作 |
-| 10 | C. Wang, S. Dai, **Y. Zuo**, F. Fang, "Design optimization and precision requirements of an endcap ion trap for single-ion optical clock applications" | *AIP Advances* 15(5) | 2025 | — | 合作 |
-| 11 | H. Shi, F. Wu, H. Zheng, X. Wang, **Y. Zuo**, "Phase compensation method for Laguerre-Gaussian beam" | *Opto-Electronics and Advanced Materials–Rapid Communications* 19 | 2025 | — | 合作 |
-| 12 | X. Wang, H. Shi, S. Yuan, **Y. Zuo**, et al., "光丝诱导量子拍频测量氮原子超精细结构研究" | *中国激光* 52(19): 1908024 | 2025 | — | 合作 |
-| 13 | X. Wang, H. Shi, X. Wu, L. Luo, H. Qiao, **Y. Zuo**, "Transfer matrix model of beam propagation and optimization method for bulk multi-pass cell" | *Physica Scripta* 100(1): 015545 | 2024 | 2 | 合作 |
-| 14 | H. Shi, X. Wang, L. Luo, H. Qiao, B. Huang, N. Song, **Y. Zuo**, "Spatiotemporal evolution of dispersion-induced pulse broadening in underwater laser communication" | *Optical Engineering* 63(10): 106105 | 2024 | 2 | 合作 |
-| 15 | F. Zheng, F. Fang, W. Chen, K. Liu, S. Dai, S. Cao, **Y. Zuo**, T. Li, "Bimetal temperature-compensated Ramsey cavity for atomic fountain frequency standards" | *IEEE Trans. Microwave Theory Tech.* 71(4): 1752–1760 | 2022 | 6 | 合作 |
-| 16 | C. Weiliang, F. Fang, L. Kun, Z. Fasong, D. Shaoyang, **Z. Yani**, L. Tianchu, "Development of Rb fountain clock for time keeping" | *Frontiers in Physics* 10: 956452 | 2022 | 9 | 合作 |
-| 17 | L. Han, F. Fang, W. Chen, K. Liu, **Y. N. Zuo**, F. Zheng, S. Dai, T. Li, "Optical state selection process with optical pumping in a cesium atomic fountain clock" | *Chinese Physics B* 30(8): 080602 | 2021 | 3 | 合作 |
-| 18 | L. Han, F. Fang, W. Chen, K. Liu, S. Dai, **Y. N. Zuo**, T. Li, "Improvement of the short-term stability of atomic fountain clock with state preparation by two-laser optical pumping" | *Chinese Physics B* 30(5): 050602 | 2021 | 3 | 合作 |
-| 19 | J. Han, **Y. Zuo**, J. Zhang, L. Wang, "Theoretical investigation of the black-body Zeeman shift for microwave atomic clocks" | *The European Physical Journal D* 73(1): 9 | 2019 | 6 | 合作 |
-| 20 | **Y. N. Zuo**, J. Z. Han, J. W. Zhang, L. J. Wang, "Direct temperature determination of a sympathetically cooled large ¹¹³Cd⁺ ion crystal for a microwave clock" | *Applied Physics Letters* 115(6) | 2019 | 22 | `第一作者` |
-| 21 | X. L. Sun, J. W. Zhang, P. F. Cheng, **Y. N. Zuo**, L. J. Wang, "Theoretical analysis of suppressing Dick effect in Ramsey-CPT atomic clock by interleaving lock" | *Chinese Physics B* 27(2): 023101 | 2018 | 7 | 合作 |
-| 22 | **Y. Zuo**, Z. Li, Z. Yang, et al., "Experimental investigation on two-photon absorption in silicon avalanche photodiode" | （期刊论文） | 2014 | — | `第一作者` |
+| 5 | S. Dai, C. Wang, S. Cao, **Y. Zuo**, et al., "The research of 369.5 nm laser stabilizing method and its influence on ytterbium ion optical clock" | *AIP Advances* 15(7) | 2025 | — | 合作 |
+| 6 | C. Wang, S. Dai, **Y. Zuo**, F. Fang, "Design optimization and precision requirements of an endcap ion trap for single-ion optical clock applications" | *AIP Advances* 15(5) | 2025 | — | 合作 |
+| 7 | X. Wang, H. Shi, S. Yuan, **Y. Zuo**, et al., "光丝诱导量子拍频测量氮原子超精细结构研究" | *中国激光* 52(19): 1908024 | 2025 | — | 合作 |
+| 8 | F. Zheng, F. Fang, W. Chen, K. Liu, S. Dai, S. Cao, **Y. Zuo**, T. Li, "Bimetal temperature-compensated Ramsey cavity for atomic fountain frequency standards" | *IEEE Trans. Microwave Theory Tech.* 71(4): 1752–1760 | 2022 | 6 | 合作 |
+| 9 | C. Weiliang, F. Fang, L. Kun, Z. Fasong, D. Shaoyang, **Z. Yani**, L. Tianchu, "Development of Rb fountain clock for time keeping" | *Frontiers in Physics* 10: 956452 | 2022 | 9 | 合作 |
+| 10 | L. Han, F. Fang, W. Chen, K. Liu, **Y. N. Zuo**, F. Zheng, S. Dai, T. Li, "Optical state selection process with optical pumping in a cesium atomic fountain clock" | *Chinese Physics B* 30(8): 080602 | 2021 | 3 | 合作 |
+| 11 | L. Han, F. Fang, W. Chen, K. Liu, S. Dai, **Y. N. Zuo**, T. Li, "Improvement of the short-term stability of atomic fountain clock with state preparation by two-laser optical pumping" | *Chinese Physics B* 30(5): 050602 | 2021 | 3 | 合作 |
+| 12 | J. Han, **Y. Zuo**, J. Zhang, L. Wang, "Theoretical investigation of the black-body Zeeman shift for microwave atomic clocks" | *The European Physical Journal D* 73(1): 9 | 2019 | 6 | 合作 |
+| 13 | **Y. N. Zuo**, J. Z. Han, J. W. Zhang, L. J. Wang, "Direct temperature determination of a sympathetically cooled large ¹¹³Cd⁺ ion crystal for a microwave clock" | *Applied Physics Letters* 115(6) | 2019 | 22 | `第一作者` |
+| 14 | X. L. Sun, J. W. Zhang, P. F. Cheng, **Y. N. Zuo**, L. J. Wang, "Theoretical analysis of suppressing Dick effect in Ramsey-CPT atomic clock by interleaving lock" | *Chinese Physics B* 27(2): 023101 | 2018 | 7 | 合作 |
+| 15 | **Y. Zuo**, Z. Li, Z. Yang, et al., "Experimental investigation on two-photon absorption in silicon avalanche photodiode" | （期刊论文） | 2014 | — | `第一作者` |
+| 16 | H. Shi, **Y. Zuo**, F. Wu, et al., "Dispersion-induced pulse broadening and compression method in underwater wireless optical communication" | *Journal of Optics* 27(6): 065608 | 2025 | — | 合作 |
+| 17 | H. Shi, **Y. Zuo**, F. Wu, et al., "Theoretical investigation of underwater zero-order Bessel beam generation and propagation characteristics" | *Physica Scripta* 100(6): 065113 | 2025 | — | 合作 |
+| 18 | H. Shi, **Y. Zuo**, F. Wu, et al., "Theoretical investigation and numerical simulation of gas-filled multi-pass cell" | *Opto-Electronics Review* 33 | 2025 | 1 | 合作 |
+| 19 | H. Shi, X. Wang, **Y. Zuo**, et al., "Underwater Laguerre-Gaussian beam propagation and phase compensation method" | *Opto-Electronics Review* 33 | 2025 | 1 | 合作 |
+| 20 | H. Shi, F. Wu, H. Zheng, X. Wang, **Y. Zuo**, "Phase compensation method for Laguerre-Gaussian beam" | *Opto-Electronics and Advanced Materials–Rapid Communications* 19 | 2025 | — | 合作 |
+| 21 | X. Wang, H. Shi, X. Wu, L. Luo, H. Qiao, **Y. Zuo**, "Transfer matrix model of beam propagation and optimization method for bulk multi-pass cell" | *Physica Scripta* 100(1): 015545 | 2024 | 2 | 合作 |
+| 22 | H. Shi, X. Wang, L. Luo, H. Qiao, B. Huang, N. Song, **Y. Zuo**, "Spatiotemporal evolution of dispersion-induced pulse broadening in underwater laser communication" | *Optical Engineering* 63(10): 106105 | 2024 | 2 | 合作 |
 
 ### 会议论文
 
@@ -169,12 +169,4 @@
 | 序号 | 姓名 | 培养类型 | 去向 / 合作单位 |
 |---|---|---|---|
 | 1 | 张亚南 | 已毕业 | 中国航天科工集团第二研究院203所 |
-| 2 | 韩越祥 | 拟毕业 | 杭州极弱磁场重大科学装置研究院 |
-| 3 | 赵洁 | 联合培养 | 北京交通大学 |
-| 4 | 王泽坤 | 联合培养 | 中国计量大学 |
-
----
-
-<p align="center">
-  © 2026 左娅妮 Yani Zuo &nbsp;·&nbsp; Last updated: March 2026
-</p>
+| 2 | 韩越祥 | 拟毕业 | 杭州极弱
