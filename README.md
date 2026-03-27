@@ -4,15 +4,14 @@
   <b>副研究员 · Associate Researcher</b><br>
   中国计量科学研究院 时间频率计量科学研究所（国家时间频率计量中心）<br>
   National Institute of Metrology, China · Time & Frequency Division<br><br>
-  📧 zuoyani@nim.ac.cn  |  zuoyanizz@163.com
+  📧 zuoyani@nim.ac.cn &nbsp;|&nbsp; zuoyanizz@163.com
 </p>
 
 ---
 
 ## 个人简况
 
-左娅妮，女，1993年，博士，中国计量科学研究院时间频率计量科学研究所（国家时间频率计量中心）副研究员。2020年博士毕业于清华大学物理系（师从王力军教授与张建伟副教授），从事基于协同冷却镉离子微波钟的研究。2020年至2023年在中国计量科学研究院时频所从事博士后研究（合作导师为李天初院士与房芳研究员），出站后留院任副研究员，目前所在团队为计量院基础创新团队——喷泉、离子光钟团队（团队负责人：房芳 副院长）
-
+左娅妮，女，1993年，博士，中国计量科学研究院时间频率计量科学研究所（国家时间频率计量中心）副研究员。2020年博士毕业于清华大学物理系（师从王力军教授与张建伟副教授），从事基于协同冷却镉离子微波钟的研究。2020年至2023年在中国计量科学研究院时频所从事博士后研究（合作导师为李天初院士与房芳研究员），出站后留院任副研究员，目前所在团队为计量院基础创新团队——喷泉、离子光钟团队（团队负责人：房芳 副院长）。
 
 团队科研经费充足，承担多项国家级重大/重点项目。本人主持国家自然科学基金青年项目1项、国家市场监督管理总局科技计划项目1项及院基本科研业务费项目2项，联合承研XXX专项超过500W，作为骨干参与合肥国家实验室科技创新2030重大项目、科技部NQI国家重点研发计划等重要课题。主要科研贡献包括镱离子光钟关键技术攻关、镉离子微波钟核心技术突破以及集成化超稳微波激光系统研制，部分成果已实现转化应用。
 
@@ -34,14 +33,15 @@
 
 参与GFGKJ"超稳微波"项目，联合北京大学等单位开展高相干双波长激光与电光梳分频研究，推动低噪声光学频率基准在微波领域的应用；相关成果发表于 *Nature Communications*（2025）。
 
-
 ---
 
 ## 招生方向
+
 本课题组依托中国计量科学研究院国家时间频率计量中心，拥有顶级的软硬件平台与国家级重大项目支撑。
-- 招生专业：仪器科学与技术、电子信息 等。
-- 背景要求：欢迎本科为 物理学、电子工程、仪器科学、通信工程 等相关专业的优秀学子报考。
-- 培养特色：研究生将深度参与高精度镱离子光钟实验装置的搭建及量子基准关键技术研究，面向国际单位制变革（SI秒重新定义）的重大国家需求，具有雄厚的航天重大工程应用背景。 
+
+- **招生专业**：仪器科学与技术、电子信息 等。
+- **背景要求**：欢迎本科为物理学、电子工程、仪器科学、通信工程等相关专业的优秀学子报考。
+- **培养特色**：研究生将深度参与高精度镱离子光钟实验装置的搭建及量子基准关键技术研究，面向国际单位制变革（SI秒重新定义）的重大国家需求，具有雄厚的航天重大工程应用背景。
 
 ---
 
@@ -72,29 +72,28 @@
 | 19 | J. Han, **Y. Zuo**, J. Zhang, L. Wang, "Theoretical investigation of the black-body Zeeman shift for microwave atomic clocks" | *The European Physical Journal D* 73(1): 9 | 2019 | 6 | 合作 |
 | 20 | **Y. N. Zuo**, J. Z. Han, J. W. Zhang, L. J. Wang, "Direct temperature determination of a sympathetically cooled large ¹¹³Cd⁺ ion crystal for a microwave clock" | *Applied Physics Letters* 115(6) | 2019 | 22 | `第一作者` |
 | 21 | X. L. Sun, J. W. Zhang, P. F. Cheng, **Y. N. Zuo**, L. J. Wang, "Theoretical analysis of suppressing Dick effect in Ramsey-CPT atomic clock by interleaving lock" | *Chinese Physics B* 27(2): 023101 | 2018 | 7 | 合作 |
-| 22 | **Y. Zuo**, Z. Li, Z. Yang, et al., "Experimental investigation on two-photon absorption in silicon avalanche photodiode" | (期刊论文) | 2014 | — | `第一作者` |
+| 22 | **Y. Zuo**, Z. Li, Z. Yang, et al., "Experimental investigation on two-photon absorption in silicon avalanche photodiode" | （期刊论文） | 2014 | — | `第一作者` |
 
 ### 会议论文
 
 | # | 论文 | 会议 | 年份 | 引用 | 角色 |
 |---|---|---|---|---|---|
-| 1 | F. Fang, C. Wang, **Y. Zuo**, S. Dai, "Realization of the SI Second Defined by Geometric Mean of Multiple Clock Transitions" | arXiv:2603.14858 (预印本) | 2026 | — | 合作 |
-| 2 | S. Dai, **Y. Zuo**, C. Wang, S. Cao, K. Liu, W. Chen, F. Zheng, W. Zhao, F. Fang, "The Development of the NIM-Yb1 Ion Optical Clock" | *2025 URSI AP-RASC* | 2025 | — | 合作 |
-| 3 | J. Yang, R. Liu, B. He, ..., **Y. Zuo**, et al., "Stable Microwave Generation via 2-point Frequency Division of a Highly Coherent Two-color laser" | *2025 Joint EFTF/IFCS* | 2025 | — | 合作 |
-| 4 | Y. Zheng, Y. Chen, S. Miao, ..., **Y. Zuo**, et al., "Towards a Transportable Optical Frequency Standard Based on a Single Yb⁺ Ion" | *2025 Joint EFTF/IFCS* | 2025 | 1 | 合作 |
-| 5 | T. Shen, J. Ma, X. Xue, **Y. Zuo**, et al., "Dual-Wavelength Ultra-Stable Laser Operating at 780 nm and 852 nm" | *2024 EFTF*, 169–172 | 2024 | — | 合作 |
-| 6 | J. Yang, B. He, F. Meng, ..., **Y. Zuo**, et al., "Two-color Laser with Super High Correlation" | *CLEO 2024*, JTh5D.6 | 2024 | 1 | 合作 |
-| 7 | **Y. Zuo**, S. Cao, S. Dai, Y. Lin, T. Yang, B. Lin, F. Meng, W. Chen, K. Liu, F. Fang, "Development and Evaluation of a Narrow Linewidth Laser System for ¹⁷¹Yb⁺ E2 Transition" | *2023 IEEE CPEM*, Wellington | 2023 | 1 | `第一作者` |
-| 8 | **Y. Zuo**, S. Dai, S. Cao, F. Meng, F. Zheng, W. Chen, K. Liu, T. Li, F. Fang, "Progress on a Compact Ultra-stable Laser System for Photonic Microwave Generation" | *2022 Joint EFTF–IFCS* | 2022 | — | `第一作者` |
-| 9 | F. Zheng, F. Fang, X. Wang, W. Chen, K. Liu, S. Dai, S. Cao, **Y. Zuo**, T. Li, "A Low Temperature-Sensitive Ramsey Cavity for Rb Fountain Clocks" | *CSNC 2022*, Vol. III | 2022 | 1 | 合作 |
-| 10 | L. Han, F. Fang, **Y. Zuo**, F. Zheng, W. Chen, K. Liu, S. Dai, T. Li, "Preliminary progress of the state preparation with a new optical pumping method in a cesium atomic fountain clock" | *Quantum Optics and Photon Counting 2021*, 11771: 96–102 | 2021 | — | 合作 |
-| 11 | **Y. Zuo**, S. Dai, S. Cao, W. Chen, K. Liu, F. Zheng, T. Li, F. Fang, "Towards a High-Performance Optical Clock Based on Single ¹⁷¹-Yb Ion" | *2021 IEEE 6th OGC*, Shenzhen, 91–93 | 2021 | 2 | `第一作者` |
-| 12 | **Y. Zuo**, S. Dai, S. Cao, K. Liu, W. Chen, L. Han, F. Zheng, T. Li, F. Fang, "Design of the optical system for 171-ytterbium single-ion optical clock" | *Optical Sensors 2021*, 11772: 343–346 | 2021 | 1 | `第一作者` |
-| 13 | **Y. N. Zuo**, J. Z. Han, J. W. Zhang, L. J. Wang, "Progress towards a Cadmium Ion Microwave Clock: Improvement of the SNR based on Sympathetic Cooling" | *2019 Joint EFTF/IFCS* | 2019 | — | `第一作者` |
-| 14 | **Y. N. Zuo**, J. Z. Han, L. Wei, J. W. Zhang, L. J. Wang, "Progress towards a Cadmium ion microwave clock based on sympathetic cooling" | *2018 IEEE IFCS*, 1–3 | 2018 | 3 | `第一作者` 🏆 |
-| 15 | **Y. N. Zuo**, P. F. Cheng, X. L. Sun, L. J. Wang, J. W. Zhang, "Investigation of dual species ions cloud by molecular-dynamics simulation for microwave clocks" | *2017 Joint EFTF/IFCS* | 2017 | — | `第一作者` |
-| 16 | X. Sun, P. Cheng, **Y. Zuo**, L. Wang, J. Zhang, "Reduction of Dick effect in a pulsed CPT vapor cell clock by interleaving lock" | *2017 Joint EFTF/IFCS* | 2017 | — | 合作 |
-| 17 | **Y. N. Zuo**, K. Miao, C. Gao, J. W. Zhang, L. J. Wang, "Progress of the dual-traps microwave frequency standard based on ¹¹³Cd⁺ ions" | *2016 IEEE IFCS*, 1–4 | 2016 | 1 | `第一作者` |
+| 1 | S. Dai, **Y. Zuo**, C. Wang, S. Cao, K. Liu, W. Chen, F. Zheng, W. Zhao, F. Fang, "The Development of the NIM-Yb1 Ion Optical Clock" | *2025 URSI AP-RASC* | 2025 | — | 合作 |
+| 2 | J. Yang, R. Liu, B. He, ..., **Y. Zuo**, et al., "Stable Microwave Generation via 2-point Frequency Division of a Highly Coherent Two-color laser" | *2025 Joint EFTF/IFCS* | 2025 | — | 合作 |
+| 3 | Y. Zheng, Y. Chen, S. Miao, ..., **Y. Zuo**, et al., "Towards a Transportable Optical Frequency Standard Based on a Single Yb⁺ Ion" | *2025 Joint EFTF/IFCS* | 2025 | 1 | 合作 |
+| 4 | T. Shen, J. Ma, X. Xue, **Y. Zuo**, et al., "Dual-Wavelength Ultra-Stable Laser Operating at 780 nm and 852 nm" | *2024 EFTF*, 169–172 | 2024 | — | 合作 |
+| 5 | J. Yang, B. He, F. Meng, ..., **Y. Zuo**, et al., "Two-color Laser with Super High Correlation" | *CLEO 2024*, JTh5D.6 | 2024 | 1 | 合作 |
+| 6 | **Y. Zuo**, S. Cao, S. Dai, Y. Lin, T. Yang, B. Lin, F. Meng, W. Chen, K. Liu, F. Fang, "Development and Evaluation of a Narrow Linewidth Laser System for ¹⁷¹Yb⁺ E2 Transition" | *2023 IEEE CPEM*, Wellington | 2023 | 1 | `第一作者` |
+| 7 | **Y. Zuo**, S. Dai, S. Cao, F. Meng, F. Zheng, W. Chen, K. Liu, T. Li, F. Fang, "Progress on a Compact Ultra-stable Laser System for Photonic Microwave Generation" | *2022 Joint EFTF–IFCS* | 2022 | — | `第一作者` |
+| 8 | F. Zheng, F. Fang, X. Wang, W. Chen, K. Liu, S. Dai, S. Cao, **Y. Zuo**, T. Li, "A Low Temperature-Sensitive Ramsey Cavity for Rb Fountain Clocks" | *CSNC 2022*, Vol. III | 2022 | 1 | 合作 |
+| 9 | L. Han, F. Fang, **Y. Zuo**, F. Zheng, W. Chen, K. Liu, S. Dai, T. Li, "Preliminary progress of the state preparation with a new optical pumping method in a cesium atomic fountain clock" | *Quantum Optics and Photon Counting 2021*, 11771: 96–102 | 2021 | — | 合作 |
+| 10 | **Y. Zuo**, S. Dai, S. Cao, W. Chen, K. Liu, F. Zheng, T. Li, F. Fang, "Towards a High-Performance Optical Clock Based on Single ¹⁷¹-Yb Ion" | *2021 IEEE 6th OGC*, Shenzhen, 91–93 | 2021 | 2 | `第一作者` |
+| 11 | **Y. Zuo**, S. Dai, S. Cao, K. Liu, W. Chen, L. Han, F. Zheng, T. Li, F. Fang, "Design of the optical system for 171-ytterbium single-ion optical clock" | *Optical Sensors 2021*, 11772: 343–346 | 2021 | 1 | `第一作者` |
+| 12 | **Y. N. Zuo**, J. Z. Han, J. W. Zhang, L. J. Wang, "Progress towards a Cadmium Ion Microwave Clock: Improvement of the SNR based on Sympathetic Cooling" | *2019 Joint EFTF/IFCS* | 2019 | — | `第一作者` |
+| 13 | **Y. N. Zuo**, J. Z. Han, L. Wei, J. W. Zhang, L. J. Wang, "Progress towards a Cadmium ion microwave clock based on sympathetic cooling" | *2018 IEEE IFCS*, 1–3 | 2018 | 3 | `第一作者` 🏆 |
+| 14 | **Y. N. Zuo**, P. F. Cheng, X. L. Sun, L. J. Wang, J. W. Zhang, "Investigation of dual species ions cloud by molecular-dynamics simulation for microwave clocks" | *2017 Joint EFTF/IFCS* | 2017 | — | `第一作者` |
+| 15 | X. Sun, P. Cheng, **Y. Zuo**, L. Wang, J. Zhang, "Reduction of Dick effect in a pulsed CPT vapor cell clock by interleaving lock" | *2017 Joint EFTF/IFCS* | 2017 | — | 合作 |
+| 16 | **Y. N. Zuo**, K. Miao, C. Gao, J. W. Zhang, L. J. Wang, "Progress of the dual-traps microwave frequency standard based on ¹¹³Cd⁺ ions" | *2016 IEEE IFCS*, 1–4 | 2016 | 1 | `第一作者` |
 
 ### 专利
 
@@ -102,36 +101,33 @@
 |---|---|---|---|---|
 | 1 | Alkali-metal vapor cell atomic clock system | US Patent 10,659,067 | 2020 | 合作 |
 
- 
-
 ---
 
 ## 科研项目
 
 ### 主持项目
 
-| 状态 | 项目名称 | 编号 | 类别 |经费 | 实施周期 | 立项年度 |
+| 状态 | 项目名称 | 编号 | 类别 | 经费（万元） | 实施周期 | 立项年度 |
 |---|---|---|---|---|---|---|
-| 🟢 在研 | 光钟比对用高稳定传递振荡系统的构建与关键技术研究 | AKYZZ2601 | 国家市场监督管理总局科技计划项目 | 49.00 | 2026.01–2027.12 | 2026 |
-| 🟢 在研 | 三种模块XX项目 | CMJ2528 | 技术安全专项 | 220.00 | 2025.12–2026.12 | 2025 |
-| 🟢 在研 | 超稳激光XX的设计及研制 | GYS2025-K02 | 技术安全专项 | 320.00 | 2025.12–2028.12 | 2025 |
-| 🟢 在研 | 用于离子光钟黑体辐射频移评估的双光谱测温和发射率配准方法研究 | AKYJJ2401 | 基本科研业务费 | 21.00 | 2024.01–2026.12 | 2024 |
-| 🟢 在研 | 用于离子光钟黑体辐射频移评估的双光谱测温和发射率配准方法研究 | ZRQN2401 | 国家自然科学基金·青年项目 | 30.00 | 2024.01–2026.12 | 2023 |
-| 🟢 在研 | 涡旋光场在镱离子光钟光频移中的应用研究 | AKYKF2501 | 国家市场监督管理总局重点实验室开放课题| 17.00  | 2025.05–2026.04 | 2025 |
-| ✅ 已完成 | 用于离子冷却的宽带重泵光源研制 | AKYKF2301 | 国家市场监督管理总局重点实验室开放课题| 15.00  | 2023.05–2024.04 | 2023 |
-| ✅ 已完成 | 基于光频梳的510/934nm激光频率特性测量技术研究 | AKYZZ2301 | 基本科研业务费 | 38.00 | 2023.04–2025.04 | 2023 |
-| ✅ 已完成 | 离子光钟黑体辐射频移评估新方法的探索研究 | AKYCX2206 | 基本科研业务费 | 8.00 | 2022.06–2024.05 | 2022 |
+| 🟢 在研 | 光钟比对用高稳定传递振荡系统的构建与关键技术研究 | AKYZZ2601 | 国家市场监督管理总局科技计划项目 | 49 | 2026.01–2027.12 | 2026 |
+| 🟢 在研 | 三种模块XX项目 | CMJ2528 | 技术安全专项 | 220 | 2025.12–2026.12 | 2025 |
+| 🟢 在研 | 超稳激光XX的设计及研制 | GYS2025-K02 | 技术安全专项 | 320 | 2025.12–2028.12 | 2025 |
+| 🟢 在研 | 用于离子光钟黑体辐射频移评估的双光谱测温和发射率配准方法研究 | AKYJJ2401 | 基本科研业务费 | 21 | 2024.01–2026.12 | 2024 |
+| 🟢 在研 | 用于离子光钟黑体辐射频移评估的双光谱测温和发射率配准方法研究 | ZRQN2401 | 国家自然科学基金·青年项目 | 30 | 2024.01–2026.12 | 2023 |
+| 🟢 在研 | 涡旋光场在镱离子光钟光频移中的应用研究 | AKYKF2501 | 国家市场监督管理总局重点实验室开放课题 | 17 | 2025.05–2026.04 | 2025 |
+| ✅ 已完成 | 用于离子冷却的宽带重泵光源研制 | AKYKF2301 | 国家市场监督管理总局重点实验室开放课题 | 15 | 2023.05–2024.04 | 2023 |
+| ✅ 已完成 | 基于光频梳的510/934nm激光频率特性测量技术研究 | AKYZZ2301 | 基本科研业务费 | 38 | 2023.04–2025.04 | 2023 |
+| ✅ 已完成 | 离子光钟黑体辐射频移评估新方法的探索研究 | AKYCX2206 | 基本科研业务费 | 8 | 2022.06–2024.05 | 2022 |
 
 ### 参与项目
 
 | 状态 | 项目名称 | 编号 | 类别 | 实施周期 | 立项年度 |
-|------|----------|------|------|----------|----------|
+|---|---|---|---|---|---|
 | 🟢 在研 | 囚禁离子光频标 | 2021ZD0300901 | 合肥国家实验室·科技创新2030 | 2024.03–2027.12 | 2021 |
 | ✅ 已完成 | 镱离子光钟研究（国家重点研发计划NQI·课题1） | YF-ZLJC2107-1 | 国家质量基础设施体系 | 2022.01–2025.06 | 2021 |
 | ✅ 已完成 | 镱离子囚禁 | GYS2023-J06 | 技术安全专项 | 2022.11–2024.10 | 2023 |
 | ✅ 已完成 | 精密频率测量研究设备购置 | AGS23307 | 改善科研条件 | 2023.04–2024.05 | 2023 |
 | ✅ 已完成 | 镱离子光钟前期研究 | AKYZD2101 | 基本科研业务费 | 2021.03–2023.12 | 2021 |
-
 
 ---
 
@@ -158,15 +154,13 @@
 ## 荣誉与奖励
 
 - 🏆 **中国计量测试学会科学技术进步奖**（2025，排名 3/10）
-- 🥇 **IEEE IFCS 最佳学生论文论文奖**（2018，大陆科研单位首次获奖）
+- 🥇 **IEEE IFCS 最佳学生论文奖**（2018，大陆科研单位首次获奖）
 - 📄 **全国时间频率年会优秀论文奖**（2019）
 - 🎓 **北京市优秀毕业生**（2014）
 - 🎓 宝钢优秀学生奖学金
 - 🎓 北京交通大学五四奖章
 - 🔬 清华大学实验室贡献奖（多次）
 - 📚 国家奖学金（本科，多次）
-
-
 
 ---
 
