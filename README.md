@@ -4,7 +4,7 @@
   <b>副研究员 · Associate Researcher</b><br>
   中国计量科学研究院 时间频率计量科学研究所（国家时间频率计量中心）<br>
   National Institute of Metrology, China · Time & Frequency Division<br><br>
-  📧 <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="d4aea1bbadb5babd94babdb9fab5b7fab7ba">[email&#160;protected]</a> &nbsp;|&nbsp; <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="38424d5741595651424278090e0b165b5755">[email&#160;protected]</a>
+  📧 zuoyani@nim.ac.cn &nbsp;|&nbsp; zuoyanizz@163.com
 </p>
 
 ---
